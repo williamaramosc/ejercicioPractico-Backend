@@ -1,0 +1,5 @@
+El archivo que contiene la base de datos es el que se encuentra
+en esta carpeta, se llama database.sqlite.
+
+Adicionalmente, dicho archivo ya se encuentra cargado en la
+carpeta database de este proyecto backend.
